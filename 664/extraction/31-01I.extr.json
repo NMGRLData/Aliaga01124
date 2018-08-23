@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "5.0",
+    "cleanup_duration": 60.0,
+    "commit": "8a288d06a392d780912610822ab37e91ce322851",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 4.0,
+    "grain_polygon_blob": [],
+    "load_holder": "10-hole",
+    "load_name": "D0008",
+    "measured_response": "YidceGFiXHhmZFx4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDBxcz1ceDAwXHgwMFx4ZmFEfTxceDA0QFx4MDBceDAwXHhmYURceGQxLlx4ODJAXHgwMFx4MDBceGZhRHRPXHhjMkBceDAwXHgwMFx4ZmFEYEBceDAxQVx4MDBceDAwXHhmYURceGM0TyFBXHgwMFx4MDBceGZhRClqQUFceDAwXHgwMFx4ZmFEXHhmZWlhQVx4MDBceDAwXHhmYURCXHhiNlx4ODBBXHgwMFx4MDBceGZhRFx4MTFceGMzXHg5MEFceDAwXHgwMFx4ZmFEdlx4YzFceGEwQVx4MDBceDAwXHhmYURhXHhjMlx4YjBBXHgwMFx4MDBceGZhRFRceGMyXHhjMEFceDAwXHgwMFx4ZmFEX1x4YzBceGQwQVx4MDBceDAwXHhmYURceGI3XHhiZVx4ZTBBXHgwMFx4MDBceGZhRFx4YjBceGMwXHhmMEFceDAwXHgwMFx4ZmFEXHhmZWBceDAwQlx4MDBceDAwXHhmYURceDE4YFx4MDhCXHgwMFx4MDBceGZhRGNgXHgxMEJceDAwXHgwMFx4ZmFEXHg5N2dceDE4Qlx4MDBceDAwXHhmYURceGExayBCXHgwMFx4MDBceGZhRFx4YmZsKEJceDAwXHgwMFx4ZmFEXHhkOGswQlx4MDBceDAwXHhmYUQn",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "YidceGFiXHhmZFx4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDBxcz1ceGVlXHhjOVx4YWVBfTxceDA0QFx4MDBceDAwXHgwMFx4MDBceGQxLlx4ODJAZVx4YmNceGFmQXRPXHhjMkBlXHhiY1x4YWZBYEBceDAxQWVceGJjXHhhZkFceGM0TyFBZVx4YmNceGFmQSlqQUFlXHhiY1x4YWZBXHhmZWlhQWVceGJjXHhhZkFCXHhiNlx4ODBBZVx4YmNceGFmQVx4MTFceGMzXHg5MEFlXHhiY1x4YWZBdlx4YzFceGEwQWVceGJjXHhhZkFhXHhjMlx4YjBBZVx4YmNceGFmQVRceGMyXHhjMEFlXHhiY1x4YWZBX1x4YzBceGQwQWVceGJjXHhhZkFceGI3XHhiZVx4ZTBBZVx4YmNceGFmQVx4YjBceGMwXHhmMEFlXHhiY1x4YWZBXHhmZWBceDAwQmVceGJjXHhhZkFceDE4YFx4MDhCZVx4YmNceGFmQWNgXHgxMEJlXHhiY1x4YWZBXHg5N2dceDE4QmVceGJjXHhhZkFceGExayBCZVx4YmNceGFmQVx4YmZsKEJlXHhiY1x4YWZBXHhkOGswQmVceGJjXHhhZkEn",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 4.92
+}
